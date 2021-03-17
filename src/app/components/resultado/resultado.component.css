@@ -1,0 +1,30 @@
+.background-item {
+    background-color: #007c91;
+    height: 430px;
+    border-radius: 20px;
+    color: white;
+}
+
+.result {
+    color: #12BD45;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.bmi {
+    color: white;
+    font-size: 7.5rem;
+    font-weight: 700;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+
+.interpretation {
+    margin: 10px;
+    font-size: 1.3rem;
+    text-align: center;
+    padding: 5px;
+}
